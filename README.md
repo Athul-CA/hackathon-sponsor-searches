@@ -19,6 +19,9 @@ DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
  [JetBrains](https://www.jetbrains.com/community/support/sponsorship_request.html)|Stickers
  [Creative Tim](https://www.creative-tim.com/sponsorships)|---
 [Shopify](https://www.shopify.in/sponsorships)|---
+[Jet brain](https://www.jetbrains.com/community/events-partnership/sponsorship_request.html)|---
+[Solana ](https://in.superteam.fun/instagrants/solana-hackathon-sponsorships)|---
+
 Matic Network (BVI) Ltd.| Mail the details to connect@matic.network
 echoAR | Mail the details to info@echoAR.xyz
 O'Reilly Media | Mail the details to partners@oreilly.com
